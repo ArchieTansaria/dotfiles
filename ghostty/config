@@ -1,0 +1,46 @@
+theme = TokyoNight
+
+background = #0F0E0E
+foreground = #c0caf5
+
+background-opacity = 0.85
+background-blur = 25
+
+font-family = JetBrainsMono Nerd Font
+font-size = 13
+font-feature = +calt,+liga,+dlig
+
+font-thicken = true
+font-thicken-strength = 120
+
+#macos-titlebar-style = hidden
+
+window-padding-x = 12
+window-padding-y = 12
+
+term = xterm-ghostty
+alpha-blending = native
+
+cursor-color = #77C4E6
+cursor-style = block
+cursor-style-blink = true
+cursor-opacity = 0.9
+
+selection-background = #33467c
+selection-foreground = #c0caf5
+
+# Mouse and interaction
+mouse-hide-while-typing = true
+cursor-click-to-move = true
+focus-follows-mouse = false
+
+# Clipboard enhancements
+clipboard-read = allow
+clipboard-write = allow
+copy-on-select = true
+clipboard-trim-trailing-spaces = true
+click-repeat-interval = 500
+
+# Better scrolling
+scrollback-limit = 100000
+mouse-scroll-multiplier = 3
