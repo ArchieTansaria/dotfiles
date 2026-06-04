@@ -4,7 +4,8 @@ A reference document for my terminal environment, shell workflow, aliases, plugi
 
 ## Preview
 
-![Terminal Preview](./assets/terminal-preview.png)
+![Terminal Preview](./assets/terminal-preview.jpeg)
+![Tmux Preview](./assets/tmux-preview.png)
 
 ## Table of Contents
 
