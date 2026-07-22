@@ -121,7 +121,8 @@ alias cat="bat"
 alias grep="rg"
 alias top="btop"
 alias lg="lazygit"
-alias reload='source ~/.zshrc'
+alias reload="source ~/.zshrc"
+alias ag="agy-ide"
 
 # Eza
 alias ls="eza --color=always --group-directories-first"
